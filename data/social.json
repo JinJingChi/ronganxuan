@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "WeChat",
+      "icon": "fab fa-weixin",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "name": "bilibili",
+      "icon": "fab fa-bilibili",
+      "link": "https://twitter.com/"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/"
+    }
+  ]
+}
