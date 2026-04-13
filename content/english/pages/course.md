@@ -15,9 +15,9 @@ draft: false
 
 ### [DevOps](https://my.feishu.cn/wiki/Rd0Vw6hC9iQVwMkvRKrcZ3sNnfg)
 
-### [LLM Deploy](https://my.feishu.cn/wiki/Rd0Vw6hC9iQVwMkvRKrcZ3sNnfg)
+### [LLM Deploy](https://my.feishu.cn/wiki/J3QwwTe0eibrR3kAB9scmgudnsd?from=from_copylink)
 
-### [CKA Certificate](https://my.feishu.cn/wiki/Rd0Vw6hC9iQVwMkvRKrcZ3sNnfg)
+### [CKA Certificate](https://my.feishu.cn/wiki/QAhtwmEBRiZXQZkFwYJc2etan8f?from=from_copylink)
 
 <hr>
 
