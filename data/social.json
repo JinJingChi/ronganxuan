@@ -3,17 +3,17 @@
     {
       "name": "WeChat",
       "icon": "fab fa-weixin",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.chijinjing.cn/authors/"
     },
     {
       "name": "bilibili",
       "icon": "fab fa-bilibili",
-      "link": "https://twitter.com/"
+      "link": "https://www.chijinjing.cn/authors/"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://www.chijinjing.cn/authors/"
     }
   ]
 }

@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Designed & Developed by Zeon Studio"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Github"
-link = "https://github.com/zeon-studio/hugoplate"
+link = "https://github.com/JinJingChi"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -62,10 +62,10 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["kubernetes", "cncf"]
+description = "cloud native"
+author = "ChiJinJing"
+# twitter = "zeon_studio"
 image = "images/og-image.png"
 
 
